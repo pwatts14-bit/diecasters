@@ -1,0 +1,1 @@
+Your Power Level is equivalent to the number of available pages in your [[Spellbook]]. Your Power Level starts out at 1 at the start of the game and increases by 1 each time your [[Training Token]] advances into the next page field on the [[Training Track]], opening up a new available page.
