@@ -1,0 +1,1 @@
+The Tome is the static set of 3 [[Utility]] cards and 3 [[Gather]] cards that are always available for purchase.
