@@ -1,0 +1,1 @@
+Dice that you don't roll every turn. The Dice you roll every turn are the 2 dice you began the game rolling every turn, the extra dice you can acquire after reaching the second space of the [[Training Track]], or any dice you are directed to roll every turn by instructions on one of your [[Relics]].
