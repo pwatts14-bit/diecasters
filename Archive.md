@@ -1,0 +1,1 @@
+The Archive is the set of 6 cards available for purchase that are drawn from the Archive Deck.
