@@ -1,0 +1,1 @@
+Utility cards are cards that affect the player's cards, dice, or [[Training Token]].
