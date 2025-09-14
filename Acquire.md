@@ -1,0 +1,1 @@
+Purchasing cards from the [[Archive]] or [[Tome]]. Acquired cards always go into the acquiring player's discard pile, unless otherwise indicated.
