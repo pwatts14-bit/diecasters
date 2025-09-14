@@ -1,0 +1,1 @@
+The 3 Resources are Water, Fire, and Crystal. Resources are primarily used to [[Summon Creatures]].
