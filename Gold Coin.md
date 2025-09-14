@@ -1,0 +1,1 @@
+Gold Coins can be used for purchasing just like [[Gold]] accumulated during a turn. However, it does not disappear when a turn ends if unused like [[Gold]] does. Gold Coins can be purchased during the [[Acquire new Spells from the Archive or Tome]] phase for a cost of 2 [[Gold]].
