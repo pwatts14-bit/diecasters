@@ -1,0 +1,1 @@
+Relics are upgrades you can obtain throughout the game. They grant you with certain powers or effects that will last the rest of the game (unless removed via some other action). When you obtain a Relic, keep it on the table behind your Player Board and maintain the order you obtained them, as the order will be important for some effects or actions.
