@@ -1,0 +1,1 @@
+Gather cards are cards that collect [[Resources]].
