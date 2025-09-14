@@ -1,0 +1,1 @@
+Replenishing simply means sliding cards in the [[Archive]] to the left to fill any empty spaces, and then drawing the top card of the Archive Deck to fill any spots on the far right.
