@@ -1,0 +1,1 @@
+Gold is the currency used to purchase Spells from the [[Archive]] or [[Tome]].
