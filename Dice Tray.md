@@ -1,0 +1,1 @@
+Your dice tray is where you keep the dice you have rolled for the current turn. Once you have used a die to activate a Spell or other action, move the die to the card you activated. This removal from the Dice Tray indicates it is no longer available to use on this turn.
